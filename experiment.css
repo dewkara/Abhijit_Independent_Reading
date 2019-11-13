@@ -1,0 +1,46 @@
+body {
+  background-color: #96d1c7;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #465881;
+  border-width: thick;
+  border-spacing: 10;
+  width: 5%
+}
+
+img {
+  width: 15%;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+  margin: 0;
+}
+
+h2 {
+  color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+
+
+}
+a {
+  text-decoration: none;
+  color: #010038;
+  font-size: 15px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+a:active {
+  color: #1f6650;
+}
+
+p {
+  margin-bottom: 0;
+}
